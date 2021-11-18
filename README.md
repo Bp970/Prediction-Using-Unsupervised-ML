@@ -5,7 +5,7 @@ From the given ‘Iris’ dataset, predict the optimum number of clusters and re
  - The iris dataset is a classic and very easy multi-class classification dataset.
  - You can get some documentation with:
 
-# import some data to play with
+# Import some data to play with
 ```
   iris = datasets.load_iris()
 
